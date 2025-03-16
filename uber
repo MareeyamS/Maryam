@@ -1,0 +1,58 @@
+<body>
+  <header>
+ 
+    <div class="logo">Uber</div>
+    <ul class="nav-links" >
+        <li><a href="#">Ride</a></li>
+        <li><a href="#">Drive</a></li>
+        <li><a href="#">Help</a></li>
+        <li><a href="#">Sign Up</a></li>
+      
+    </ul>
+ 
+</header>
+  <section class="hero">
+   <div class="content">
+        <h2>Do more in the app</h2>
+
+        <p>Download the uber app</p>
+        <img src="qr code.svg" alt="QR Code" >
+   </div>
+  </section>
+
+  <section class="optipons">
+    <div class="option">
+        <img src="ride-options.jpg.webp" alt="Ride Options">
+
+        <h3>Ride Options</h3>
+        <p>More ways to move with Uber.</p>
+    </div>
+
+      <div class="option">
+        <img src="airports.jpg.webp" alt="Airports">
+
+        <h3>700+ Airports</h3>
+        <p>Get rides to and from major airports.</p>
+      </div>
+
+      <div class="option">
+        <img src="cities.jpg.webp" alt="Cities">
+        <h3>10,000+ Cities</h3>
+        <p>Uber is available worldwide.</p>
+      </div>
+
+  </section>
+
+  <section class="group-ride">
+    <h2>Ride with friends seamlessly</h2>
+    <p>Set up a group ride, invite friends, and share the cost.</p>
+
+      <img src="group-ride.jpg.webp" alt="Group Ride">
+  </section>
+
+  <footer>
+    <p>2025 Uber Technologies</p>
+  </footer>
+
+    <script src="uber.js"></script>
+</body>
